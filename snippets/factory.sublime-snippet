@@ -6,7 +6,7 @@ factory('${1:name}', [${2/(?:.+)/'/g}${2/,[ ]*/', '/g}${2/(?:.+)/', /g}function 
 	return {
 
 	};
-}])
+}]);
 ]]></content>
 	<tabTrigger>factory</tabTrigger>
 	<scope>source.js</scope>

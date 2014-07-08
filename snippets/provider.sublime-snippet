@@ -8,7 +8,7 @@ provider('${1:name}', [${2/(?:.+)/'/g}${2/,[ ]*/', '/g}${2/(?:.+)/', /g}function
 
 		};
 	}];
-}])
+}]);
 ]]></content>
 	<tabTrigger>provider</tabTrigger>
 	<scope>source.js</scope>
